@@ -1,5 +1,5 @@
-# Covid-19
-## Exponential model for Colombia. see [`covid.ipynb`](./covid.ipynb) for details.
+# COVID-19
+## Exponential model for Colombia. See [`covid.ipynb`](./covid.ipynb) for details.
 Updated on a daily basis
 
 ![Exponential model for Colombia](./img/Colombia.png)
