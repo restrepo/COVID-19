@@ -11,6 +11,7 @@ Updated on a daily basis
 * Doubling times analysis: [Forbes](https://www.forbes.com/sites/startswithabang/2020/03/17/why-exponential-growth-is-so-scary-for-the-covid-19-coronavirus/#66dd44434e9b) → [Result](https://raw.githubusercontent.com/restrepo/Covid-19/master/img/doubling.jpg)
 * https://twitter.com/burkert_andreas/status/1239692655833071616
 * https://youtu.be/Kas0tIxDvrg?t=249
+* [R0 model](https://www.youtube.com/watch?v=OWic9kU83zs)
 ### Colombia data
 * [Official Colombia data](https://infogram.com/covid-2019-ins-colombia-1hnq41zg9ord63z)
 * [Reports every 12 hours at 10:00 adn 22:00](https://twitter.com/MinSaludCol)
