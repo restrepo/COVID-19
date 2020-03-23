@@ -13,7 +13,7 @@ Updated on a daily basis
 * https://youtu.be/Kas0tIxDvrg?t=249
 * [R0 model](https://www.youtube.com/watch?v=OWic9kU83zs)
 * [Logístico mejorado España](https://biocomsc.upc.edu/en/media/entender-el-covid-19.pdf)
-* [SIR España](https://www.meneame.net/m/tecnolog%C3%ADa/go?id=3273705)
+* [SIR España](http://covid19.webs.upv.es/) → [Ejemplo predicción](https://www.meneame.net/m/tecnolog%C3%ADa/go?id=3273705)
 ### Colombia data
 * [Official Colombia data](https://infogram.com/covid-2019-ins-colombia-1hnq41zg9ord63z)
 * [Reports every 12 hours at 10:00 adn 22:00](https://twitter.com/MinSaludCol)
