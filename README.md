@@ -19,4 +19,4 @@ Updated on a daily basis
     * [SIR Colombia](https://github.com/jyosa/covid-19_colombia)
 ### Colombia data
 * [Official Colombia data](https://infogram.com/covid-2019-ins-colombia-1hnq41zg9ord63z)
-* [Reports every 12 hours at 10:00 adn 22:00](https://twitter.com/MinSaludCol)
+* [Reports every 12 hours at 10:00 and 22:00](https://twitter.com/MinSaludCol)
