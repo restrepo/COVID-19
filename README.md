@@ -15,6 +15,7 @@ Updated on a daily basis
 * [Logístico mejorado España](https://biocomsc.upc.edu/en/media/entender-el-covid-19.pdf)
 * SIR models
     * [SIR España](http://covid19.webs.upv.es/) → [Ejemplo predicción](https://www.meneame.net/m/tecnolog%C3%ADa/go?id=3273705)
+    * [SIR Colombia](https://github.com/Camilo-HG/COVID-19)
     * [SIR Colombia](https://github.com/jyosa/covid-19_colombia)
 ### Colombia data
 * [Official Colombia data](https://infogram.com/covid-2019-ins-colombia-1hnq41zg9ord63z)
