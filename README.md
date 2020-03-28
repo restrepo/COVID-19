@@ -21,6 +21,9 @@ Updated on a daily basis
     * [SIR España](http://covid19.webs.upv.es/) → [Ejemplo predicción](https://www.meneame.net/m/tecnolog%C3%ADa/go?id=3273705)
     * [SIR Colombia](https://github.com/Camilo-HG/COVID-19)
     * [SIR Colombia](https://github.com/jyosa/covid-19_colombia)
+* SEIR model
+    * [SEIR world](https://www.imperial.ac.uk/mrc-global-infectious-disease-analysis/news--wuhan-coronavirus/?fbclid=IwAR3OjCojHKJ8XyvRFAoe7x8HjYF5-6tslvw1M-qYlV08gRwRGFO6bwB5rZQ) [PDF](https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/Imperial-College-COVID19-Global-Impact-26-03-2020.pdf)
+    
 * Deaths based
     * Using South Korea death rates for (Spain)[http://institucional.us.es/blogimus/2020/03/como-estimar-el-numero-de-infectados-reales-por-covid-19-el-caso-de-andalucia-e-italia/]
 ### Colombia data
