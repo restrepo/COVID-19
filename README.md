@@ -2,11 +2,10 @@
 ## Exponential model for Colombia. See [`covid.ipynb`](./covid.ipynb) for details.
 Updated on a daily basis
 
-![Exponential model for Colombia](./img/Colombia.png) <img src="https://drive.google.com/uc?id=1Om7RI8X2k527K5xRuHp-kGT-W0mYSy-c">
+![Exponential model for Colombia](./img/Colombia.png) ![Exponential model for world](./img/world.pmg)
 
-![Exponential model for world](https://drive.google.com/uc?id=1Om7RI8X2k527K5xRuHp-kGT-W0mYSy-c)
+[diff](https://app.reviewnb.com/restrepo/Covid-19/) [Real Time World](https://drive.google.com/uc?id=1Om7RI8X2k527K5xRuHp-kGT-W0mYSy-c)
 
-[diff](https://app.reviewnb.com/restrepo/Covid-19/)
 ## Links
 ### Models
 * [Covid-19 infection in Italy. Mathematical models and predictions](https://towardsdatascience.com/covid-19-infection-in-italy-mathematical-models-and-predictions-7784b4d7dd8d)
