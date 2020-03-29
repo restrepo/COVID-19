@@ -2,9 +2,9 @@
 ## Exponential model for Colombia. See [`covid.ipynb`](./covid.ipynb) for details.
 Updated on a daily basis
 
-![Exponential model for Colombia](./img/Colombia.png) ![Exponential model for world](./img/world.pmg)
+![Exponential model for Colombia](./img/Colombia.png) ![Exponential model for world](./img/world.png)
 
-[diff](https://app.reviewnb.com/restrepo/Covid-19/) [Real Time World](https://drive.google.com/uc?id=1Om7RI8X2k527K5xRuHp-kGT-W0mYSy-c)
+[diff](https://app.reviewnb.com/restrepo/Covid-19/) - [Real Time World](https://drive.google.com/uc?id=1Om7RI8X2k527K5xRuHp-kGT-W0mYSy-c) [PDF](bit.ly/covid-19-realtime) 
 
 ## Links
 ### Models
