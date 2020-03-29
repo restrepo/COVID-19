@@ -7,6 +7,8 @@ Updated on a daily basis
 [diff](https://app.reviewnb.com/restrepo/Covid-19/) - [Real Time World](https://drive.google.com/uc?id=1Om7RI8X2k527K5xRuHp-kGT-W0mYSy-c) [[PDF]](https://bit.ly/covid-19-realtime) 
 
 ## Links
+### World statistics
+* https://ourworldindata.org/coronavirus
 ### Models
 * [Covid-19 infection in Italy. Mathematical models and predictions](https://towardsdatascience.com/covid-19-infection-in-italy-mathematical-models-and-predictions-7784b4d7dd8d)
 * Doubling times analysis: [Forbes](https://www.forbes.com/sites/startswithabang/2020/03/17/why-exponential-growth-is-so-scary-for-the-covid-19-coronavirus/#66dd44434e9b) → [Result](https://raw.githubusercontent.com/restrepo/Covid-19/master/img/doubling.jpg)
