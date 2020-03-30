@@ -40,3 +40,6 @@ Relevance ordering
 * [Reports every 12 hours at 10:00 and 22:00](https://twitter.com/MinSaludCol)
 ### Historical data
 * [How some cities ‘flattened the curve’ during the 1918 flu pandemic](https://www.nationalgeographic.com/history/2020/03/how-cities-flattened-curve-1918-spanish-flu-pandemic-coronavirus/?fbclid=IwAR2YfP6crf3FqtEBsgaq3xCkFrpYlIk9EcmtWv-lvC6MXIu8hH7IUfWY3bA)
+* Public health interventions and epidemic intensity during the 1918 influenza pandemic
+Richard J. Hatchett, Carter E. Mecher, and Marc Lipsitch
+PNAS May 1, 2007 104 (18) 7582-7587; first published April 6, 2007 https://doi.org/10.1073/pnas.0610941104
