@@ -34,3 +34,5 @@ Updated on a daily basis
 ### Colombia data
 * [Official Colombia data](https://infogram.com/covid-2019-ins-colombia-1hnq41zg9ord63z)
 * [Reports every 12 hours at 10:00 and 22:00](https://twitter.com/MinSaludCol)
+### Historical data
+* [How some cities ‘flattened the curve’ during the 1918 flu pandemic](https://www.nationalgeographic.com/history/2020/03/how-cities-flattened-curve-1918-spanish-flu-pandemic-coronavirus/?fbclid=IwAR2YfP6crf3FqtEBsgaq3xCkFrpYlIk9EcmtWv-lvC6MXIu8hH7IUfWY3bA)
