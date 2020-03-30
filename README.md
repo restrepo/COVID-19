@@ -20,6 +20,8 @@ Updated on a daily basis
     * Detailed explanation: https://doi.org/10.1016/j.idm.2017.08.001
     * [GGM Spain part 1](https://sistemaencrisis.es/2020/03/10/evidencia-sobre-la-dinamica-de-crecimiento-del-covid-19-en-espana/)
     * [GGM Spain part 2](https://sistemaencrisis.es/2020/03/24/de-que-cifras-estamos-hablando-cuando-se-dice-que-lo-peor-esta-por-llegar/)
+* SI model
+    * [SI and SIR explanations](https://github.com/DataForScience/Epidemiology101/blob/master/Epidemiology101.ipynb)
 * SIR models
     * [SIR España](http://covid19.webs.upv.es/) → [Ejemplo predicción](https://www.meneame.net/m/tecnolog%C3%ADa/go?id=3273705)
     * [SIR Colombia](https://github.com/Camilo-HG/COVID-19)
