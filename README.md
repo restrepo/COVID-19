@@ -10,6 +10,9 @@ Updated on a daily basis
 ### World statistics
 * https://ourworldindata.org/coronavirus
 ### Models
+Relevance ordering
+* IHME COVID-19 health service utilization forecasting team. Forecasting COVID-19 impact on hospital bed-days, ICU-days, ventilator days and deaths by US state in the next 4 months. MedRxiv. 26 March 2020. doi: [PDF](http://www.healthdata.org/sites/default/files/files/research_articles/2020/COVID-forecasting-03252020_4.pdf)
+    * [Data visualizations](https://covid19.healthdata.org/projections)
 * [Covid-19 infection in Italy. Mathematical models and predictions](https://towardsdatascience.com/covid-19-infection-in-italy-mathematical-models-and-predictions-7784b4d7dd8d)
 * Doubling times analysis: [Forbes](https://www.forbes.com/sites/startswithabang/2020/03/17/why-exponential-growth-is-so-scary-for-the-covid-19-coronavirus/#66dd44434e9b) → [Result](https://raw.githubusercontent.com/restrepo/Covid-19/master/img/doubling.jpg)
 * https://twitter.com/burkert_andreas/status/1239692655833071616
