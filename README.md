@@ -31,6 +31,7 @@ Relevance ordering
     * [SIR Colombia](https://github.com/jyosa/covid-19_colombia)
     * [Outreach explanation](https://www.wired.com/story/the-mathematics-of-predicting-the-course-of-the-coronavirus/)
 * SEIR model
+    * [Predicción Colombia](http://gabgoh.github.io/COVID/index.html?CFR=0.0014&D_hospital_lag=5&D_incbation=4.1061&D_infectious=2.9&D_recovery_mild=11.1&D_recovery_severe=28.6&I0=58&InterventionAmt=0.7&InterventionTime=6&P_SEVERE=0.2&R0=3.67&Time_to_death=10&logN=17.51)
     * [SEIR world](https://www.imperial.ac.uk/mrc-global-infectious-disease-analysis/news--wuhan-coronavirus/?fbclid=IwAR3OjCojHKJ8XyvRFAoe7x8HjYF5-6tslvw1M-qYlV08gRwRGFO6bwB5rZQ) [PDF](https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/Imperial-College-COVID19-Global-Impact-26-03-2020.pdf)
     
 * Deaths based
