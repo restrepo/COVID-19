@@ -4,7 +4,7 @@ Updated on a daily basis
 
 ![Exponential model for Colombia](./img/Colombia.png) ![Exponential model for world](./img/contention.png)
 
-[diff](https://app.reviewnb.com/restrepo/Covid-19/) - [Real Time World](https://drive.google.com/uc?id=1Om7RI8X2k527K5xRuHp-kGT-W0mYSy-c) [[PDF]](https://bit.ly/covid-19-realtime) [[Live stream from udea email]](rtmp://a.rtmp.youtube.com/live2)
+[diff](https://app.reviewnb.com/restrepo/Covid-19/) - [Real Time World](https://drive.google.com/uc?id=1Om7RI8X2k527K5xRuHp-kGT-W0mYSy-c) [[PDF]](https://bit.ly/covid-19-realtime) [Live stream](https://youtu.be/TPdFtVJbeLA)
 
 ## Links
 ### World statistics
